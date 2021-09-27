@@ -7,23 +7,23 @@ console.log(audio, musicName, prev, next, playPush);
 
 
 const songList = [{
-        path: "./music/music_1.mp3",
+        path: "music/music_1.mp3",
         Name: "Song 1"
     },
     {
-        path: "./music/music_2.mp3",
+        path: "music/music_2.mp3",
         Name: "Song 2"
     },
     {
-        path: "./music/music_3.mp3",
+        path: "music/music_3.mp3",
         Name: "Song 3"
     },
     {
-        path: "./music/music_4.mp3",
+        path: "music/music_4.mp3",
         Name: "Song 4"
     },
     {
-        path: "./music/music_5.mp3",
+        path: "music/music_5.mp3",
         Name: "Song 5"
     },
 ];
