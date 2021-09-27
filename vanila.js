@@ -86,18 +86,6 @@ prev.onclick = function(){
     }
 }
 
-if(audio.play()){
-    playPush.innerHTML = '<ion-icon name="pause-outline"></ion-icon>';
-    playPush.classList.add('active');
-
-}else{
-    playPush.innerHTML = '<ion-icon name="play-outline"></ion-icon>';
-    playPush.classList.remove('active');
-}
-
-
-
-
 
 
 
